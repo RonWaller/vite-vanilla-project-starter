@@ -8,8 +8,6 @@ This repository will help create a boilerplate vanilla javascript project using 
 
 ## Badges
 
----
-
 ![Vite (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/vite?style=flat-square&color=brightgreen)
 ![Babel (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/@babel/core?style=flat-square)
 ![Eslint (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/eslint?style=flat-square&color=yellow)
@@ -17,8 +15,6 @@ This repository will help create a boilerplate vanilla javascript project using 
 ![Typescript (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/typescript?style=flat-square&color=orange)
 
 ## Dev Dependencies
-
----
 
 -   [Vite](https://vitejs.dev/)
 -   [Eslint](https://www.npmjs.com/package/eslint)
@@ -29,9 +25,11 @@ This repository will help create a boilerplate vanilla javascript project using 
 
 <br>
 
-## Usage
+## Tech Stack
 
----
+**Client:** HTML, SCSS, Javascript
+
+## Usage
 
 There two options to use this repo
 
@@ -39,8 +37,6 @@ There two options to use this repo
 -   Clone repo
 
 ## Installation
-
----
 
 #### Download Zip File
 
@@ -66,8 +62,6 @@ There two options to use this repo
 ![image](./images/clone_repo.jpg)
 
 ## Open Terminial
-
----
 
 -   Navigate to projects folder
 -   Clone repository into projects folder
@@ -101,8 +95,6 @@ Start the dev server
 
 ## Build Project
 
----
-
 To build this project run
 
 ```bash
@@ -111,17 +103,9 @@ To build this project run
 
 ## Open in Editor (VS Code)
 
----
-
 ```bash
   code .
 ```
-
-## Tech Stack
-
----
-
-**Client:** HTML, SCSS, Javascript
 
 ## License
 
