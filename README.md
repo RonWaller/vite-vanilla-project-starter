@@ -6,27 +6,32 @@ This repository will help create a boilerplate vanilla javascript project using 
 
 <br>
 
-## Badges
-
-![Vite (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/vite?style=flat-square&color=brightgreen)
-![Babel (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/@babel/core?style=flat-square)
-![Eslint (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/eslint?style=flat-square&color=yellow)
-![Prettier (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/prettier?style=flat-square&color=red)
-![Typescript (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/typescript?style=flat-square&color=orange)
-
 ## Dev Dependencies
 
--   [Vite](https://vitejs.dev/)
--   [Eslint](https://www.npmjs.com/package/eslint)
--   [Prettier](https://prettier.io/docs/en/install.html)
--   [Bable](https://babeljs.io/docs/en/)
--   [Typescript](https://www.npmjs.com/package/typescript)
--   [Wes Boss Eslint and Prettier Config](https://github.com/wesbos/eslint-config-wesbos)
+![Vite](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/vite?style=flat-square&color=brightgreen)
+![babel/core](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/@babel/core?color=purple&style=flat-square)
+![babel/eslint-parser](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/@babel/eslint-parser?color=purple&style=flat-square)
+![babel/preset-react](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/@babel/preset-react?color=purple&style=flat-square)
+![types/node](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/@types/node?style=flat-square)
+![Typescript](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/typescript?style=flat-square&color=orange)
+![typescript-eslint/eslint-plugin](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/@typescript-eslint/eslint-plugin?style=flat-square&color=orange)
+![typescript-eslint/parser](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/@typescript-eslint/parser?style=flat-square&color=orange)
+![eslint](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/eslint?style=flat-square&color=yellow)
+![eslint-config-airbnb](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/eslint-config-airbnb?style=flat-square&color=yellow)
+![eslint-config-airbnb-typescript](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/eslint-config-airbnb-typescript?style=flat-square&color=yellow)
+![eslint-config-prettier](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/eslint-config-prettier?style=flat-square&color=yellow)
+![eslint-config-wesbos](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/eslint-config-wesbos?style=flat-square&color=yellow)
+![eslint-plugin-html](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/eslint-plugin-html?style=flat-square&color=yellow)
+![eslint-plugin-import](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/eslint-plugin-import?style=flat-square&color=yellow)
+![eslint-plugin-jsx-a11y](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/eslint-plugin-jsx-a11y?style=flat-square&color=yellow)
+![eslint-plugin-prettier](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/eslint-plugin-prettier?style=flat-square&color=yellow)
+![eslint-plugin-react](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/eslint-plugin-react?style=flat-square&color=yellow)
+![eslint-plugin-react-hooks](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/eslint-plugin-react-hooks?style=flat-square&color=yellow)
+![Prettier](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/prettier?style=flat-square&color=red)
 
 <br>
 
 - [Vite Vanilla Project Builder](#vite-vanilla-project-builder)
-  - [Badges](#badges)
   - [Dev Dependencies](#dev-dependencies)
   - [Tech Stack](#tech-stack)
   - [Usage](#usage)
