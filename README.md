@@ -4,7 +4,14 @@
 
 This repository will help create a boilerplate vanilla javascript project using Vite. When downloading the repo locally all future projects can be created just by copying and renaming folder your project name.
 
-<br>
+-   [Dev Dependencies](#dev-dependencies)
+-   [Tech Stack](#tech-stack)
+-   [How to Use](#how-to-use)
+-   [Installation](#installation)
+    -   [Open Terminial](#open-terminial)
+    -   [Build Project](#build-project)
+    -   [Open in Editor (VS Code)](#open-in-editor-vs-code)
+-   [License](#license)
 
 ## Dev Dependencies
 
@@ -31,18 +38,6 @@ This repository will help create a boilerplate vanilla javascript project using 
 
 <br>
 
--   [Vite Vanilla Project Builder](#vite-vanilla-project-builder)
-    -   [Dev Dependencies](#dev-dependencies)
-    -   [Tech Stack](#tech-stack)
-    -   [How to Use](#how-to-use)
-    -   [Installation](#installation)
-        -   [Download Zip File](#download-zip-file)
-        -   [Clone the project](#clone-the-project)
-    -   [Open Terminial](#open-terminial)
-    -   [Build Project](#build-project)
-    -   [Open in Editor (VS Code)](#open-in-editor-vs-code)
-    -   [License](#license)
-
 ## Tech Stack
 
 **Client:** HTML, SCSS, Javascript
@@ -61,48 +56,26 @@ This repository will help create a boilerplate vanilla javascript project using 
 
 ## Installation
 
-#### Download Zip File
+<details>
 
--   Click Code Button (1)
--   Download Zip (2)
--   Unzip file
--   Move folder to project location
-    -   Rename folder to project name OR
-    -   Copy repo folder for each project and rename to project name
-
-</br>
+<summary>Instructions</summary>
 
 ![image](./images/zip_download.jpg)
 
-#### Clone the project
-
--   Click Clone Button (1)
--   Select HTTPS
--   Copy link (2)
+1. Download Zip File
+    - Click Code Button (1)
+    - Download Zip (2)
+1. Unzip file
+1. Move folder to project location
+    - Rename folder to project name OR
+    - Copy repo folder
+    - Rename folder to project name
 
 </br>
 
-![image](./images/clone_repo.jpg)
-
-## Open Terminial
+### Open Terminial
 
 -   Navigate to projects folder
--   Clone repository into projects folder
-    -   Rename folder to project name OR
-    -   Copy repo folder for each project and rename to project name
-
-```bash
-  git clone https://github.com/RonWaller/vite-vanilla-project-starter.git
-```
-
-Go to the project directory
-
--   Rename folder to your project name
-
-```bash
-  mv vite-vanilla-project-starter your-project-name-here
-  cd your-project-name-here
-```
 
 Install dependencies
 
@@ -116,19 +89,25 @@ Start the dev server
   npm run dev
 ```
 
-## Build Project
+### Build Project
 
-To build this project run
+To build for production
 
 ```bash
   npm run build
 ```
 
-## Open in Editor (VS Code)
+### Open in Editor (VS Code)
 
 ```bash
   code .
 ```
+
+</details>
+
+<br>
+
+**Now you can delete Image folder and README**
 
 ## License
 
