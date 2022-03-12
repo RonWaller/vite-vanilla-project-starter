@@ -25,6 +25,19 @@ This repository will help create a boilerplate vanilla javascript project using 
 
 <br>
 
+- [Vite Vanilla Project Builder](#vite-vanilla-project-builder)
+  - [Badges](#badges)
+  - [Dev Dependencies](#dev-dependencies)
+  - [Tech Stack](#tech-stack)
+  - [Usage](#usage)
+  - [Installation](#installation)
+      - [Download Zip File](#download-zip-file)
+      - [Clone the project](#clone-the-project)
+  - [Open Terminial](#open-terminial)
+  - [Build Project](#build-project)
+  - [Open in Editor (VS Code)](#open-in-editor-vs-code)
+  - [License](#license)
+
 ## Tech Stack
 
 **Client:** HTML, SCSS, Javascript
