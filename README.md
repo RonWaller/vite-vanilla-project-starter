@@ -31,28 +31,33 @@ This repository will help create a boilerplate vanilla javascript project using 
 
 <br>
 
-- [Vite Vanilla Project Builder](#vite-vanilla-project-builder)
-  - [Dev Dependencies](#dev-dependencies)
-  - [Tech Stack](#tech-stack)
-  - [Usage](#usage)
-  - [Installation](#installation)
-      - [Download Zip File](#download-zip-file)
-      - [Clone the project](#clone-the-project)
-  - [Open Terminial](#open-terminial)
-  - [Build Project](#build-project)
-  - [Open in Editor (VS Code)](#open-in-editor-vs-code)
-  - [License](#license)
+-   [Vite Vanilla Project Builder](#vite-vanilla-project-builder)
+    -   [Dev Dependencies](#dev-dependencies)
+    -   [Tech Stack](#tech-stack)
+    -   [How to Use](#how-to-use)
+    -   [Installation](#installation)
+        -   [Download Zip File](#download-zip-file)
+        -   [Clone the project](#clone-the-project)
+    -   [Open Terminial](#open-terminial)
+    -   [Build Project](#build-project)
+    -   [Open in Editor (VS Code)](#open-in-editor-vs-code)
+    -   [License](#license)
 
 ## Tech Stack
 
 **Client:** HTML, SCSS, Javascript
 
-## Usage
+## How to Use
 
-There two options to use this repo
-
--   Download Zip file
--   Clone repo
+-   Use the 'src' folder for all project files.
+    -   HTML
+    -   JS
+    -   SCSS
+-   vite.config.js file sets up project input to 'src' folder.
+-   Use eslintrc file to configure linting rules
+-   Use prettierrc file to configure formatting rules
+-   Once new project has been setup and dependencies installed delete image folder and README
+-   Rename README_template to README for project
 
 ## Installation
 
