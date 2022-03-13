@@ -102,12 +102,15 @@ To build for production
 ```bash
   code .
 ```
+<br>
+
+**Now you can delete Image folder and README**
 
 </details>
 
 <br>
 
-**Now you can delete Image folder and README**
+
 
 ## License
 
